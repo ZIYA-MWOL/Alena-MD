@@ -1,5 +1,5 @@
 //═══════════════════════════════════════════════════════//
-// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 𝙰𝙱𝚄 
+// 𝚃𝙷𝙸𝚂 𝙱𝙶𝙼 𝙱𝙾𝚃 𝙲𝙾𝙳𝙴𝚁 𝙱𝚈 v𝓲𝘳ꪊ𝘴 ᥴꪖ𝓽
 // 𝚈𝙾𝚄𝚁 𝙴𝙳𝙸𝚃𝙸𝙽𝙶 𝙾𝚁 𝙲𝙾𝙿𝚈  
 // 𝚈𝙾𝚄 𝙲𝚁𝙴𝙳𝙸𝚃 𝚁𝙴𝙼𝙾𝚅𝙴 𝙱𝚄𝚃 
 // 𝙹𝙴𝚂𝚃 𝚂𝙰𝙿𝙿𝙾𝚁𝚃 𝙼𝙴 𝙿𝙻𝚉 
@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918548062392']
-global.premium = ['918548062392']
-global.ownernomer = '918548062392'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳'
-global.botname = '𝑹𝑬𝑩𝑬𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
+global.owner = ['917034890656']
+global.premium = ['917034890656']
+global.ownernomer = '917034890656'
+global.ownername = 'Anoop efx Viruscat'
+global.botname = 'MISSDIYA'
 global.caption = 'ᴄᴏɴᴛᴀᴄᴛ ᴏᴡɴᴇʀ'
 global.footer = '© sᴇʀ ʀᴇʙᴇʟ ™'
-global.ig = 'https://wa.me/918548062392'
+global.ig = 'https://wa.me/917034890656'
 global.region = 'kerala'
 global.sc = 'https://github.com/Afx-Abu/Alena-MD'
-global.myweb = 'https://wa.me/918548062392'
-global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳'
-global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑹𝑬𝑩𝑬𝑳'
+global.myweb = 'https://wa.me/917034890656'
+global.packname = '𝑰𝑻𝒁 𝑴𝑬 VIRUSCAT'
+global.author = '𝑰𝑻𝒁 𝑴𝑬 ANOOP VC'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
